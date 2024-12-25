@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "PqIa/cBJ4N8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MMV\\source\\repos\\KS\\KS\\KS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MMV\\.nuget\\packages\\openhardwaremonitor\\0.9.6\\openhardwaremonitor.0.9.6.nupkg.sha512",
+    "C:\\Users\\MMV\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\MMV\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"OpenHardwareMonitor 0.9.6\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "OpenHardwareMonitor",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
